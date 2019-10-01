@@ -1,27 +1,27 @@
 h1{
     text-align: left;
-    color:whitesmoke;
+    color:black;
     font-size: 30px;
 
 } 
 P{
     text-align: left;
     padding: 30px;
-    color: white;
+    color: black;
     font-size:30px;
     
 }
 body{
-    background-image: url("/images/backgroun2.jpeg ");
+    background-image: url("https://cdn.pixabay.com/photo/2014/08/01/00/08/pier-407252_960_720.jpg");
     background-repeat: no-repeat;
     background-size:cover;
 }
 
 
-}
+
 h1 strong{
     text-align: center;
-    padding: 30px
+    padding: 30px;
 } 
 form{
     align-items:center;
